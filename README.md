@@ -73,6 +73,7 @@ Contributors:
 - Tracy Ragan
 - Divya Mohan
 - Mark Peters
+- Arijeet Majumdar
 
 ### Architecture
 
@@ -119,6 +120,7 @@ Contributors:
 - Divya Mohan
 - Mark Peters
 - Alok Tanna
+- Arijeet Majumdar
 
 ## Project Management
 
